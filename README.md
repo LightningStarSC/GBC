@@ -1,0 +1,2 @@
+# GBC
+Made in T196 COMP1238
